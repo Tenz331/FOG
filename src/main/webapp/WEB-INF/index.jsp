@@ -1,16 +1,22 @@
 <%--
   Created by IntelliJ IDEA.
-  User: mathi
+  User: Emil
   Date: 19-11-2020
   Time: 14:50
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
-<head>
-    <title>Title</title>
-</head>
-<body>
+<!doctype html>
+<html lang='en'>
 
-</body>
-</html>
+<head>
+
+<meta charset='utf-8'>
+<meta name='viewport', content='width=device-width, initial-scale=1, shrink-to-fit=no')>
+<meta name='description', content=''>
+<meta name='author', content=''>
+
+<title> Grayscale - Start Bootstrap Theme </title>
+<head></head>
+<body></body>
+<footer></footer>
